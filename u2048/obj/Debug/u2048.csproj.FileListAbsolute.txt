@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\bin\Debug\u2048 - Lukasz Jakowski.exe.config
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\bin\Debug\u2048 - Lukasz Jakowski.exe
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\bin\Debug\u2048 - Lukasz Jakowski.pdb
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048.Main.resources
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048 - Lukasz Jakowski.exe
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Debug\u2048 - Lukasz Jakowski.pdb

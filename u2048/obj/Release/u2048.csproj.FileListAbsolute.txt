@@ -1,0 +1,21 @@
+C:\Users\jakowskiuki\Desktop\u2048\u2048\bin\Release\u2048 - Lukasz Jakowski.exe.config
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\bin\Release\u2048 - Lukasz Jakowski.exe.config
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\bin\Release\u2048 - Lukasz Jakowski.exe
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\bin\Release\u2048 - Lukasz Jakowski.pdb
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048.csprojAssemblyReference.cache
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048.Main.resources
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048.Properties.Resources.resources
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048.csproj.GenerateResource.cache
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048 - Lukasz Jakowski.exe
+C:\Users\User\Downloads\u2048_Jakowski-master\u2048_Jakowski-master\u2048\obj\Release\u2048 - Lukasz Jakowski.pdb
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048.Main.resources
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\bin\Release\u2048-r.exe.config
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\bin\Release\u2048-r.exe
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\bin\Release\u2048-r.pdb
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048-r.exe
+C:\Users\User\OneDrive\Desktop\U2048_R\u2048\obj\Release\u2048-r.pdb
